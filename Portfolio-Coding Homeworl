@@ -1,0 +1,46 @@
+<html>
+ <head>
+   <title>Type vs. Class vs. ID selectors</title>
+    <style>
+     h1 {
+       color: blue;
+     }
+     h2 {
+       color: red;
+     }
+       li {
+       color: green;
+     }
+   </style>
+ </head>
+ <body>
+   <h1 style="border:black; border-width:5px; border-style:solid;"> Francis Lukoki Portfolio!!! </h1>
+   <h2>Cool Things About Me!!!</h2>
+    <hr>
+   <h1>Personal</h1>
+    <li>Born In Africa</li>
+    <li>Came into the U.S at age 4</li>
+    <li>Grew Up loving music and hands on Technology</li>
+    <hr>
+    <h1>Hobbies</h1>
+    <li>Music</li>
+    <li>Working Out</li>
+    <li>Computer Work</li>
+    <li>Networking</li>
+    <hr>
+    <h1>Interest</h1>
+    <li>Music Industries/Record Labels</li>
+    <li>Music Videos/Visuals</li>
+    <li>Computer Technology</li>
+    <li>Music Industries/Record Labels</li>
+     <h1>Goals</h1>
+    <li>Become RICH</li>
+    <li>Get signed to a major rcord label</li>
+    <li>Never work again</li>
+    <li>Help people chase their dreams and pursue their talent</li>
+
+
+
+
+ </body>
+</html>
